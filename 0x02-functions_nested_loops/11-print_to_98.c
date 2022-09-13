@@ -3,9 +3,9 @@
 #include <stdio.h>
 
 /**
- * main - check the code
- *
- * Return: Always 0.
+ * print_to_98 - prints all natural numbers from n to 98
+ * @n: input number to check
+ * Return: nothing
  */
 void print_to_98(int n)
 {
