@@ -4,6 +4,7 @@
  *
  * Return: nothing
  */
+
 int main(void)
 {
 	int count;
