@@ -2,8 +2,7 @@
 
 /* Program that prints _putchar and returns 0 */
 
-int main(void)
-	
+int main(void)	
 {
 
 	_putchar(‘_')
@@ -16,5 +15,4 @@ int main(void)
 	_putchar('r')
 	_putchar('\n')
 	return (0)
-
 }
