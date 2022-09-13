@@ -1,6 +1,12 @@
 #include "main.h"
 
-/* Program that prints _putchar and returns 0 */
+/**
+* main - prints Putchar
+*
+*Description: prints _putchar
+*
+*Retuen: 0 (Success)
+*/
 
 int main(void)	
 {
