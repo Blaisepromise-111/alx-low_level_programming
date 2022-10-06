@@ -25,8 +25,8 @@ int _strlen(char *str)
  */
 int main(int argc, char *argv[])
 {
-	unsigned long int a, b, res; 
-	
+	unsigned long int a, b, res;
+
 	int len_a, len_b;
 
 	len_a = _strlen(argv[1]);
