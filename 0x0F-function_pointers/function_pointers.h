@@ -2,6 +2,7 @@
 #define FUNCTION_POINTERS_
 
 #include <stdlib.h>
+#include <stdio.h>
 #include <stddef.h>
 
 int _putchar(char c);
