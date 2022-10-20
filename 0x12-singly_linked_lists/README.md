@@ -1,4 +1,5 @@
-#Singly linked lists
+Singly linked lists
+
 In this project, I learned about implementing linked list data structures in C.
 
 Files
