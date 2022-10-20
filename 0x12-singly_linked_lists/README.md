@@ -1,7 +1,4 @@
-
-58 lines (44 sloc)  2.25 KB
-
-Singly linked lists
+#Singly linked lists
 In this project, I learned about implementing linked list data structures in C.
 
 Files
